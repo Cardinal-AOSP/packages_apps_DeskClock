@@ -17,6 +17,6 @@
 <resources>
 
     <!-- Adaptive icon background layer color -->
-    <color name="ic_launcher_alarmclock_background">#1A237E</color>
+    <color name="ic_launcher_alarmclock_background">@color/default_background</color>
 
 </resources>
